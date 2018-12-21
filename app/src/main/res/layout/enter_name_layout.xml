@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/edt_name"
+            android:hint="Input Your Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            app:met_iconLeft="@drawable/ic_user"
+            app:met_baseColor="@color/Black"
+            app:met_textColor="@color/Black"
+            app:met_primaryColor="@color/Black"
+            app:met_iconPadding="0dp"
+/>
